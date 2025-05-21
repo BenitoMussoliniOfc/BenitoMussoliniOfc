@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-<a href="https://www.twitch.tv/pepexisz">
+<a href="twitch.tv/pepexisz">twitch</a>
 
 <!--
 **BenitoMussoliniOfc/BenitoMussoliniOfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
