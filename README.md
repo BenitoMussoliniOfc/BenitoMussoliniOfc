@@ -1,7 +1,7 @@
 ## Seja bem-vindo!
 
 <a href="https://www.twitch.tv/pepexisz"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
- 
+ <img src="https://cdn-0001.qstv.on.epicgames.com/iOfKpnoYfhIHnqSjMa/image/landscape_comp.jpeg">
 
 
 <!--
