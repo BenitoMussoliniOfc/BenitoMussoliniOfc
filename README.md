@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://www.twitch.tv/pepexisz" <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://www.twitch.tv/pepexisz" </a> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 
 
 <!--
