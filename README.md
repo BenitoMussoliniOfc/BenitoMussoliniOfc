@@ -2,9 +2,9 @@
 
 
 -  ♍ Olá, meu nome é Pietro
--  
+  
 -  🎅🏿🏠 Meu e-mail é pietro.martemev@escola.pr.gov.br
--  
+  
 - 👨🏽‍🎓👩🏿‍🦲 Cursando em 1DS
 
  |  Minhas redes sociais:
