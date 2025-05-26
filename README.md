@@ -9,8 +9,7 @@
 
 
 
-
- <img src="![image](https://github.com/user-attachments/assets/26c8de54-2c17-49ec-92e2-59020aef1a9f)">
+<img src=""></a>
 
 
 <!--
