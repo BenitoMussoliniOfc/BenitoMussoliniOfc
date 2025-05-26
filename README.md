@@ -7,7 +7,6 @@
 
 <a href="https://www.twitch.tv/pepexisz"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a> <a href="https://steamcommunity.com/id/ppx1"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
-<img src="https://github.com/user-attachments/assets/f23f44b9-8844-4bd4-a06a-7a4dd6ac0001"></a>
 
 <img src="https://github.com/user-attachments/assets/aab46a7f-28b2-47e4-a7d0-0aa36769fdc1"></a>
 
