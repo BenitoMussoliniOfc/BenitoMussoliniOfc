@@ -1,4 +1,7 @@
 ## Seja bem-vindo!
+- 🐔 Olá, meu nome é Pietro
+- 🍉 Meu e-mail é pietro.martemev@escola.pr.gov.br
+- 👨🏽‍🎓 Cursando em 1DS
 
 <a href="https://www.twitch.tv/pepexisz"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/ppx1"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
